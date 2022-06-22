@@ -55,6 +55,7 @@ ORDER BY Name
 SELECT Name
 FROM Production.Product
 WHERE Name LIKE 'SPO[^K]%' 
+ORDER BY Name
 
 --12
 SELECT DISTINCT ISNULL(ProductSubcategoryID,0), ISNULL(Color,'default')
