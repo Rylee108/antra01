@@ -1,0 +1,15 @@
+C:\Users\Yunlei\source\c#\Assign0301\Assign0301\bin\Debug\net6.0\Assign0301.exe
+C:\Users\Yunlei\source\c#\Assign0301\Assign0301\bin\Debug\net6.0\Assign0301.deps.json
+C:\Users\Yunlei\source\c#\Assign0301\Assign0301\bin\Debug\net6.0\Assign0301.runtimeconfig.json
+C:\Users\Yunlei\source\c#\Assign0301\Assign0301\bin\Debug\net6.0\Assign0301.dll
+C:\Users\Yunlei\source\c#\Assign0301\Assign0301\bin\Debug\net6.0\Assign0301.pdb
+C:\Users\Yunlei\source\c#\Assign0301\Assign0301\obj\Debug\net6.0\Assign0301.csproj.AssemblyReference.cache
+C:\Users\Yunlei\source\c#\Assign0301\Assign0301\obj\Debug\net6.0\Assign0301.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunlei\source\c#\Assign0301\Assign0301\obj\Debug\net6.0\Assign0301.AssemblyInfoInputs.cache
+C:\Users\Yunlei\source\c#\Assign0301\Assign0301\obj\Debug\net6.0\Assign0301.AssemblyInfo.cs
+C:\Users\Yunlei\source\c#\Assign0301\Assign0301\obj\Debug\net6.0\Assign0301.csproj.CoreCompileInputs.cache
+C:\Users\Yunlei\source\c#\Assign0301\Assign0301\obj\Debug\net6.0\Assign0301.dll
+C:\Users\Yunlei\source\c#\Assign0301\Assign0301\obj\Debug\net6.0\refint\Assign0301.dll
+C:\Users\Yunlei\source\c#\Assign0301\Assign0301\obj\Debug\net6.0\Assign0301.pdb
+C:\Users\Yunlei\source\c#\Assign0301\Assign0301\obj\Debug\net6.0\Assign0301.genruntimeconfig.cache
+C:\Users\Yunlei\source\c#\Assign0301\Assign0301\obj\Debug\net6.0\ref\Assign0301.dll

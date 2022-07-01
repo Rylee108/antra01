@@ -1,0 +1,15 @@
+C:\Users\Yunlei\source\c#\Assign0302\Assign0302\bin\Debug\net6.0\Assign0302.exe
+C:\Users\Yunlei\source\c#\Assign0302\Assign0302\bin\Debug\net6.0\Assign0302.deps.json
+C:\Users\Yunlei\source\c#\Assign0302\Assign0302\bin\Debug\net6.0\Assign0302.runtimeconfig.json
+C:\Users\Yunlei\source\c#\Assign0302\Assign0302\bin\Debug\net6.0\Assign0302.dll
+C:\Users\Yunlei\source\c#\Assign0302\Assign0302\bin\Debug\net6.0\Assign0302.pdb
+C:\Users\Yunlei\source\c#\Assign0302\Assign0302\obj\Debug\net6.0\Assign0302.csproj.AssemblyReference.cache
+C:\Users\Yunlei\source\c#\Assign0302\Assign0302\obj\Debug\net6.0\Assign0302.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunlei\source\c#\Assign0302\Assign0302\obj\Debug\net6.0\Assign0302.AssemblyInfoInputs.cache
+C:\Users\Yunlei\source\c#\Assign0302\Assign0302\obj\Debug\net6.0\Assign0302.AssemblyInfo.cs
+C:\Users\Yunlei\source\c#\Assign0302\Assign0302\obj\Debug\net6.0\Assign0302.csproj.CoreCompileInputs.cache
+C:\Users\Yunlei\source\c#\Assign0302\Assign0302\obj\Debug\net6.0\Assign0302.dll
+C:\Users\Yunlei\source\c#\Assign0302\Assign0302\obj\Debug\net6.0\refint\Assign0302.dll
+C:\Users\Yunlei\source\c#\Assign0302\Assign0302\obj\Debug\net6.0\Assign0302.pdb
+C:\Users\Yunlei\source\c#\Assign0302\Assign0302\obj\Debug\net6.0\Assign0302.genruntimeconfig.cache
+C:\Users\Yunlei\source\c#\Assign0302\Assign0302\obj\Debug\net6.0\ref\Assign0302.dll
